@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Notepad_Symbols/about.PNG</file>
+        <file>Notepad_Symbols/copy.PNG</file>
+        <file>Notepad_Symbols/cut.PNG</file>
+        <file>Notepad_Symbols/New.PNG</file>
+        <file>Notepad_Symbols/Open.PNG</file>
+        <file>Notepad_Symbols/Paste.PNG</file>
+        <file>Notepad_Symbols/Redo.PNG</file>
+        <file>Notepad_Symbols/Save AS.PNG</file>
+        <file>Notepad_Symbols/Save.PNG</file>
+        <file>Notepad_Symbols/Undo.PNG</file>
+    </qresource>
+</RCC>
